@@ -1,6 +1,6 @@
 # Build a Firestore CRUD App with React 19 and Firebase 10+
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/5bc50ea680aca7466989441d/build-a-firestore-crud-app-with-react-19-and-firebase-10).
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
